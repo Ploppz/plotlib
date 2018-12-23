@@ -83,7 +83,7 @@ pub mod page;
 pub mod representation;
 pub mod view;
 
-mod axis;
+pub mod axis;
 pub mod barchart;
 pub mod boxplot;
 mod errors;
