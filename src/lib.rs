@@ -93,5 +93,5 @@ pub mod line;
 pub mod scatter;
 pub mod style;
 mod svg_render;
-mod text_render;
+pub mod text_render;
 mod utils;
